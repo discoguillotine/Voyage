@@ -1,0 +1,1 @@
+execute if predicate beyond:environment/in_vacuum run function beyond:environment/vacuum/tick
