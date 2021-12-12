@@ -1,0 +1,28 @@
+{
+  "entity.player.hit_zap": {
+	"category": "player",
+	"subtitle": "beyond.subtitle.player_hurt_zap",
+	"sounds": [
+	  "beyond:entity/player/hit_zap_1",
+	  "beyond:entity/player/hit_zap_2",
+	  "beyond:entity/player/hit_zap_3"
+	]
+  },
+  "entity.turret.hurt": {
+	"category": "hostile",
+	"subtitle": "beyond.subtitle.turret_hurt",
+	"sounds": [
+	  "beyond:entity/turret/hit_1",
+	  "beyond:entity/turret/hit_2",
+	  "beyond:entity/turret/hit_3"
+	]
+  },
+  "entity.turret.shoot": {
+	"category": "hostile",
+	"subtitle": "beyond.subtitle.turret_shoot",
+	"sounds": [
+	  "beyond:entity/turret/shoot_1",
+	  "beyond:entity/turret/shoot_2"
+	]
+  }
+}

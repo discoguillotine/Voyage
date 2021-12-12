@@ -16,7 +16,7 @@ function beyond:entity/player/damage/armor/protection
 function beyond:entity/player/damage/armor/proj_protection
 
 # finally resistance
-function beyond:entity/player/damage/armor/resistance
+function beyond.damage:armor/resistance
 
 # go back to same scale
 scoreboard players operation @s beyond.damage /= #10 beyond.damage

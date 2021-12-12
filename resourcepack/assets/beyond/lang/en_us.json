@@ -1,0 +1,22 @@
+{
+	"beyond.pack.name": "Voyage",
+	"beyond.pack.name.lore": "§r§dVoyage",
+	"beyond.pack.author": "@Psychic5",
+	"beyond.pack.version": "v0.1",
+	
+	"beyond.entity.turret": "Ruin Turret",
+	
+	"beyond.item.turret_spawn_egg": "Ruin Turret Spawn Egg",
+
+	"beyond.item.titanium_ingot": "Titanium Ingot",
+	
+	"beyond.death.no_spacesuit": "%s discovered what cryostasis is like",
+	"beyond.death.no_oxygen": "%s couldn't breathe",
+	"beyond.death.generic_shock": "%s died of shock",
+	"beyond.death.shock_entity": "%s was electrocuted by %s",
+	
+	"beyond.subtitle.turret_shoot": "Ruin Turret shoots",
+	"beyond.subtitle.turret_hurt": "Ruin Turret hurts",
+	"beyond.subtitle.turret_death": "Ruin Turret dies",
+	"beyond.subtitle.player_hurt_zap": "Player shocked"
+}
