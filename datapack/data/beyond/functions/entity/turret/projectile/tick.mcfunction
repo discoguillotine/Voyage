@@ -1,6 +1,6 @@
-tp @s ^ ^ ^1
+teleport @s ^ ^ ^1
 execute unless block ~ ~ ~ #beyond:ignore run kill @s
-particle minecraft:electric_spark ~ ~ ~ 0 0 0 0 1 force
+particle minecraft:electric_spark ^ ^ ^-1.5 0 0 0 0.25 2
 
 scoreboard players add @s beyond.dummy_1 1
 execute if score @s beyond.dummy_1 matches 16.. run kill @s

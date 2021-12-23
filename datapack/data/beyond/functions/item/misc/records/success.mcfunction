@@ -1,0 +1,2 @@
+execute as @s[tag=beyond.item.record.ichor] run playsound beyond:music.record.ichor record @a ~ ~ ~ 4
+execute as @s[tag=beyond.item.record.ichor] run summon marker ~ ~ ~ {Tags:["beyond.entity","beyond.entity.record","beyond.entity.record.ichor"]}

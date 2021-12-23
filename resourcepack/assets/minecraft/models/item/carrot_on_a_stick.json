@@ -1,0 +1,8 @@
+{
+  "parent": "item/handheld_rod",
+  "textures": {"layer0": "item/carrot_on_a_stick"},
+  "overrides": [
+	{ "predicate": { "custom_model_data": 7130000 }, "model": "beyond:item/tools/shock_cannon_empty" },
+	{ "predicate": { "custom_model_data": 7130001 }, "model": "beyond:item/tools/shock_cannon_full" }
+  ]
+}

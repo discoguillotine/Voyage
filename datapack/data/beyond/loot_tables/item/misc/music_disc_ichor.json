@@ -1,0 +1,38 @@
+
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_13",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{beyond:{id:\"music_disc_ichor\"},HideFlags:32,CustomModelData:7130000}"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "translate": "beyond.item.record.ichor",
+                  "italic": false,
+                  "color": "gray"
+                },
+                {
+                  "translate": "beyond.pack.name.lore"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

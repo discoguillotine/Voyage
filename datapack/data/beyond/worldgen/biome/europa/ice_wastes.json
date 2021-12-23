@@ -1,0 +1,68 @@
+{
+  "temperature": -2,
+  "downfall": 0.5,
+  "precipitation": "snow",
+  "temperature_modifier": "frozen",
+  "category": "icy",
+  "effects": {
+    "sky_color": 16744699,
+    "fog_color": 15516415,
+    "water_color": 5585631,
+    "water_fog_color": 919335,
+    "grass_color": 6781827,
+    "foliage_color": 870703,
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2
+    },
+    "music": {
+      "sound": "minecraft:music.overworld.snowy_slopes",
+      "min_delay": 12000,
+      "max_delay": 24000,
+      "replace_current_music": false
+    }
+  },
+  "spawners": {
+    "axolotls": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [
+      "minecraft:ore_gravel",
+      "minecraft:ore_diorite_upper",
+      "minecraft:ore_diorite_lower",
+      "minecraft:ore_andesite_upper",
+      "minecraft:ore_andesite_lower",
+      "minecraft:ore_coal_upper",
+      "minecraft:ore_coal_lower",
+      "minecraft:ore_iron_upper",
+      "minecraft:ore_iron_middle",
+      "minecraft:ore_iron_small",
+      "minecraft:ore_diamond",
+      "minecraft:ore_diamond_large",
+      "minecraft:ore_diamond_buried",
+      "beyond:generic/ore_calcite"
+    ],
+    [],
+    [],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ]
+}

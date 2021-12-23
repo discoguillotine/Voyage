@@ -1,3 +1,4 @@
+forceload add 0 0
 scoreboard objectives add beyond.dummy_1 dummy
 scoreboard objectives add beyond.dummy_2 dummy
 scoreboard objectives add beyond.dummy_3 dummy

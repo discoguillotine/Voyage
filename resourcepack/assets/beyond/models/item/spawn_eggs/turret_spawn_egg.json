@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "beyond:item/spawn_eggs/turret_spawn_egg"
+  }
+}

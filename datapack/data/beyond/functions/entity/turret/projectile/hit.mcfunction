@@ -1,5 +1,6 @@
 effect give @p minecraft:slowness 8 1
 effect give @p minecraft:mining_fatigue 8 1
+effect give @p minecraft:weakness 8
 
 tag @p add beyond.damage.turret
 execute if score $beyond.difficulty beyond.dummy_1 matches 1 run scoreboard players set @p beyond.damage 4
