@@ -3,6 +3,10 @@ scoreboard objectives add beyond.dummy_1 dummy
 scoreboard objectives add beyond.dummy_2 dummy
 scoreboard objectives add beyond.dummy_3 dummy
 
+## Entity stuff
+scoreboard objectives add beyond.hurt dummy
+
+## Damage lib
 scoreboard objectives add beyond.damage dummy
 scoreboard objectives add beyond.damage dummy
 scoreboard players set #4 beyond.damage 4

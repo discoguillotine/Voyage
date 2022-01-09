@@ -11,8 +11,7 @@
 	"beyond.entity.turret": "Ruin Turret",
 	"beyond.entity.gate": "Ruin Gate",
 	"beyond.entity.centry": "Centry",
-	"beyond.entity.necrograde": "Vacuulet",
-	"beyond.entity.vacuumother": "Vacuumother",
+	"beyond.entity.tardigrade": "Tardigrade",
 	
 	"beyond.entity.rocket_tier_0": "Scrappy Spaceship",
 	"beyond.entity.rocket_tier_1": "Spaceship",
@@ -23,7 +22,7 @@
 	"beyond.item.turret_spawn_egg": "Ruin Turret Spawn Egg",
 	"beyond.item.gate_spawn_egg": "Ruin Gate Spawn Egg",
 	"beyond.item.centry_spawn_egg": "Centry Spawn Egg",
-	"beyond.item.necrograde_spawn_egg": "Vacuulet Spawn Egg",
+	"beyond.item.tardigrade_spawn_egg": "Tardigrade Spawn Egg",
 	
 	"beyond.item.copper_coil": "Copper Wire Coil",
 	"beyond.item.scrap_metal": "Scrap Metal",
@@ -41,6 +40,13 @@
 	"beyond.item.crunch_cooked": "Boiled Crunch Legs",
 	"beyond.item.snarler_meat": "Snarler Beef",
 	"beyond.item.snarler_cooked": "Roasted Snarler Steak",
+	
+	"beyond.item.space_helmet": "Space Mask",
+	"beyond.item.spacesuit": "Spacesuit",
+	"beyond.item.fat_helmet": "Insulated Hat",
+	"beyond.item.fat_chestplate": "Insulated Tunic",
+	"beyond.item.fat_leggings": "Insulated Trousers",
+	"beyond.item.fat_boots": "Insulated Boots",
 
 	"beyond.item.record.ichor": "Psychic - Ichor",
 	
@@ -49,12 +55,12 @@
 	"beyond.music.ambient.dark_side": "Now Playing: Psychic - The Dark Side",
 	"beyond.music.ambient.cling_clang": "Now Playing: Psychic - Clings and Clangs of Below",
 	
-	"beyond.death.gigachill": "%s discovered what cryostasis is like",
 	"beyond.death.deprived": "%s couldn't breathe",
+	"beyond.death.gigachill": "%s discovered what cryostasis is like",
 	"beyond.death.heat": "%s had a heatstroke",
 	"beyond.death.nuclear": "%s became unrecognizable",
 	"beyond.death.poison": "%s forgot the milk",
-	"beyond.death.shock": "%s died of shock",
+	"beyond.death.shock": "%s couldn't handle the watts",
 	"beyond.death.shock.entity": "%s was electrocuted by %s",
 	"beyond.death.eaten.entity": "%s was consumed by %s",
 	"beyond.death.force.entity": "%s was crushed by %s",
@@ -68,8 +74,8 @@
 	"beyond.subtitle.entity.turret_hurt": "Ruin Turret hurts",
 	"beyond.subtitle.entity.turret_death": "Ruin Turret dies",
 	"beyond.subtitle.entity.turret_shoot": "Ruin Turret shoots",
-	"beyond.subtitle.entity.necrograde_ambient": "Grimzy warbles",
-	"beyond.subtitle.entity.necrograde_hurt": "Grimzy hurts",
-	"beyond.subtitle.entity.necrograde_death": "Grimzy dies",
-	"beyond.subtitle.entity.necrograde_launch": "Grimzy launches"
+	"beyond.subtitle.entity.tardigrade_ambient": "Tardigrade warbles",
+	"beyond.subtitle.entity.tardigrade_hurt": "Tardigrade hurts",
+	"beyond.subtitle.entity.tardigrade_death": "Tardigrade dies",
+	"beyond.subtitle.entity.tardigrade_charge": "Tardigrade launches"
 }

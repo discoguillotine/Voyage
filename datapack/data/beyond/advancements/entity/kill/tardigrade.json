@@ -4,12 +4,12 @@
       "trigger": "minecraft:player_killed_entity",
       "conditions": {
         "entity": {
-          "nbt": "{Tags:[\"beyond.entity.turret\"]}"
+          "nbt": "{Tags:[\"beyond.entity.tardigrade\"]}"
         }
       }
     }
   },
   "rewards": {
-    "function": "beyond:entity/turret/death"
+    "function": "beyond:entity/tardigrade/death"
   }
 }

@@ -41,9 +41,28 @@
 	  "beyond:music/records/ichor"
 	]
   },
-  "music.ambient.dark_side": {
+  "entity.tardigrade.hurt": {
+	"subtitle": "beyond.subtitle.entity.tardigrade_hurt",
 	"sounds": [
-	  "beyond:music/dark_side"
+	  "beyond:entity/tardigrade/hurt_1",
+	  "beyond:entity/tardigrade/hurt_2",
+	  "beyond:entity/tardigrade/hurt_3",
+	  "beyond:entity/tardigrade/hurt_4"
+	]
+  },
+  "entity.tardigrade.death": {
+	"subtitle": "beyond.subtitle.entity.tardigrade_death",
+	"sounds": [
+	  "beyond:entity/tardigrade/death_1",
+	  "beyond:entity/tardigrade/death_2"
+	]
+  },
+  "entity.tardigrade.charge": {
+	"subtitle": "beyond.subtitle.entity.tardigrade_charge",
+	"sounds": [
+	  "beyond:entity/tardigrade/charge_1",
+	  "beyond:entity/tardigrade/charge_2",
+	  "beyond:entity/tardigrade/charge_3"
 	]
   }
 }
