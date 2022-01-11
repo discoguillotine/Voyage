@@ -1,0 +1,34 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{display:{Lore:[]},beyond:{contents:{id:\"mundane_gas\"}}}"
+  },
+  {
+    "function": "minecraft:set_lore",
+    "lore": [
+      {
+        "translate": "beyond.item.mundane_gas",
+        "color": "gray",
+        "italic": false
+      },
+      [
+        {
+          "score": {
+            "name": "@s",
+            "objective": "beyond.dummy_1"
+          },
+          "color": "gray",
+          "italic": false
+        },
+        {
+          "text": "/16",
+          "color": "gray",
+          "italic": false
+        }
+      ],
+      {
+        "translate": "beyond.pack.name.lore"
+      }
+    ]
+  }
+]

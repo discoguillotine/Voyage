@@ -33,10 +33,10 @@
 	"beyond.item.blubber": "Dense Fat",
 	"beyond.item.opaque_gas": "Opaque Gas",
 	"beyond.item.crude_gas": "Crude Gas",
-	"beyond.item.potent_gas": "Potent Gas",
+	"beyond.item.mundane_gas": "Mundane Gas",
 	"beyond.item.pestilential_gas": "Pestilential Gas",
 	"beyond.item.vacuum": "Vacuum",
-	"beyond.item.capsule": "Vacuum Container Capsule",
+	"beyond.item.capsule": "Vacuum Capsule",
 	"beyond.item.space_helmet": "Space Mask",
 	"beyond.item.spacesuit": "Spacesuit",
 	"beyond.item.blubber_helmet": "Insulated Hat",
@@ -44,7 +44,9 @@
 	"beyond.item.blubber_leggings": "Insulated Trousers",
 	"beyond.item.blubber_boots": "Insulated Boots",
 
-	"beyond.subtitle.item.vacuum.use": "Vacuum pulls",
+	"beyond.subtitle.item.vacuum.pull": "Vacuum pulls",
+	"beyond.subtitle.item.vacuum.eject": "Vacuum ejects",
+	"beyond.subtitle.item.vacuum.dispense": "Vacuum dispenses into capsule",
 	
 	"beyond.entity.turret": "Ruin Turret",
 	"beyond.entity.gate": "Ruin Gate",
@@ -78,7 +80,7 @@
 
 	"beyond.dimension.moon": "The Moon",
 	"beyond.dimension.inner_belt": "Asteroid Belt",
-	"beyond.dimension.outer_belt": "Outer Belt",
+	"beyond.dimension.mars": "Mars",
 
 	"beyond.biome.moon.lunar_waste": "Lunar Wastes",
 	"beyond.biome.moon.ice_lake": "Dry Ice Lakes",
@@ -86,6 +88,9 @@
 
 	"beyond.biome.inner_belt.asteroid_waste": "Asteroid Field",
 	"beyond.biome.inner_belt.spaceship_ruin": "Spaceship Graveyard",
+	
+	"beyond.biome.mars.martian_waste": "Martian Desert",
+	"beyond.biome.mars.martian_oasis": "Martian Oasis",
 	
 	"beyond.death.deprived": "%s couldn't breathe",
 	"beyond.death.gigachill": "%s discovered what cryostasis is like",

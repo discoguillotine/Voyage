@@ -1,4 +1,4 @@
-forceload add 0 0
+## Dummies
 scoreboard objectives add beyond.dummy_1 dummy
 scoreboard objectives add beyond.dummy_2 dummy
 scoreboard objectives add beyond.dummy_3 dummy
@@ -34,3 +34,4 @@ team modify beyond.no_push collisionRule never
 
 ## Misc
 execute store result score $beyond.difficulty beyond.dummy_1 run difficulty
+forceload add 0 0

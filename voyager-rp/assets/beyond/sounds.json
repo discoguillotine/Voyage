@@ -85,11 +85,18 @@
 	  "beyond:environment/gravity/exit"
 	]
   },
-  "item.vacuum.use": {
-	"subtitle": "beyond.subtitle.item.vacuum.use",
+  "item.vacuum.pull": {
+	"subtitle": "beyond.subtitle.item.vacuum.pull",
 	"sounds": [
 	  "beyond:item/vacuum/vacuum_1",
 	  "beyond:item/vacuum/vacuum_2"
+	]
+  },
+  "item.vacuum.eject": {
+	"subtitle": "beyond.subtitle.item.vacuum.eject",
+	"sounds": [
+	  "beyond:item/vacuum/eject_1",
+	  "beyond:item/vacuum/eject_2"
 	]
   }
 }

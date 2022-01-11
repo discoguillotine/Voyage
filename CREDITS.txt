@@ -1,3 +1,9 @@
+# Libraries
+Smithed : https://www.smithed.dev/libraries
+Score Based Damage : https://github.com/rx-modules/Score-Based-Damage
+
+# Sounds
 Tardigrade SFX : https://freesound.org/people/LittleRobotSoundFactory/
-Vacuum SFX : https://freesound.org/people/bjornredtail/
+Vacuum Pull SFX : https://freesound.org/people/bjornredtail/
+Vacuum Eject SFX : https://freesound.org/people/Omar%20Alvarado/
 Player Float SFX : https://freesound.org/people/neezen./

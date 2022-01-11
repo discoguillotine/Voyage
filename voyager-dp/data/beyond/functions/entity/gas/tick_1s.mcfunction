@@ -1,0 +1,1 @@
+execute as @s[tag=beyond.entity.gas.pestilential] run effect give @e[distance=0..2] minecraft:poison 5
