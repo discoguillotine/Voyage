@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:carrot_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{beyond:{id:\"vacuum\",contents:{id:\"empty\",Count:0}},CustomModelData:7130002}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "translate": "beyond.item.vacuum",
+                  "color": "white",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "translate": "beyond.pack.name.lore"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

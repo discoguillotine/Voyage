@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/chain_command_block",
+  "overrides": [
+	{ "predicate": { "custom_model_data": 7130000 }, "model": "beyond:entity/turret/idle" },
+	{ "predicate": { "custom_model_data": 7130001 }, "model": "beyond:entity/turret/idle_hurt" },
+	{ "predicate": { "custom_model_data": 7130002 }, "model": "beyond:entity/spark" },
+	{ "predicate": { "custom_model_data": 7130003 }, "model": "beyond:item/resources/titanium_ingot" },
+	{ "predicate": { "custom_model_data": 7130004 }, "model": "beyond:item/resources/copper_coil" },
+	{ "predicate": { "custom_model_data": 7130005 }, "model": "beyond:item/resources/blubber" }
+  ]
+}

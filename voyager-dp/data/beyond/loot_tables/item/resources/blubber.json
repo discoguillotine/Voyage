@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chain_command_block",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{beyond:{id:\"blubber\"},CustomModelData:7130005}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "translate": "beyond.item.blubber",
+                  "color": "white",
+                  "italic": "false"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "translate": "beyond.pack.name.lore"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
