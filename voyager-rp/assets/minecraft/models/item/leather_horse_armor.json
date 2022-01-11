@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/leather_horse_armor"
               },
   "overrides": [
-	{ "predicate": { "custom_model_data": 7130000 }, "model": "beyond:entity/tardigrade/idle" }
+	{ "predicate": { "custom_model_data": 7130000 }, "model": "voyager:entity/tardigrade/idle" }
   ]
 }

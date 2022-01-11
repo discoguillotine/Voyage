@@ -1,1 +1,0 @@
-tellraw @a {"translate":"beyond.ui.warning.no_smithed","color":"red","with":[{"translate":"beyond.ui.here","clickEvent":{"action":"open_url","value":"https://www.smithed.dev/libraries"}}]}

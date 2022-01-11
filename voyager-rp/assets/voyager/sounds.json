@@ -1,0 +1,102 @@
+{
+  "entity.player.hit_zap": {
+	"subtitle": "voyager.subtitle.player.player_hurt_zap",
+	"sounds": [
+	  "voyager:entity/player/hit_zap_1",
+	  "voyager:entity/player/hit_zap_2",
+	  "voyager:entity/player/hit_zap_3"
+	]
+  },
+  "entity.player.float": {
+	"subtitle": "voyager.subtitle.player.float",
+	"sounds": [
+	  "voyager:entity/player/float_1",
+	  "voyager:entity/player/float_2",
+	  "voyager:entity/player/float_3"
+	]
+  },
+  "entity.turret.hurt": {
+	"subtitle": "voyager.subtitle.entity.turret_hurt",
+	"sounds": [
+	  "voyager:entity/turret/hit_1",
+	  "voyager:entity/turret/hit_2",
+	  "voyager:entity/turret/hit_3"
+	]
+  },
+  "entity.turret.death": {
+	"subtitle": "voyager.subtitle.entity.turret_death",
+	"sounds": [
+	  "voyager:entity/turret/death_1",
+	  "voyager:entity/turret/death_2"
+	]
+  },
+  "entity.turret.shoot": {
+	"subtitle": "voyager.subtitle.entity.turret_shoot",
+	"sounds": [
+	  "voyager:entity/turret/shoot_1",
+	  "voyager:entity/turret/shoot_2"
+	]
+  },
+  "item.shock_cannon.shoot": {
+	"subtitle": "voyager.subtitle.item.shock_cannon_shoot",
+	"sounds": [
+	  "voyager:item/shock_cannon/shoot_1",
+	  "voyager:item/shock_cannon/shoot_2"
+	]
+  },
+  "music.record.ichor": {
+	"sounds": [
+	  "voyager:music/records/ichor"
+	]
+  },
+  "entity.tardigrade.hurt": {
+	"subtitle": "voyager.subtitle.entity.tardigrade_hurt",
+	"sounds": [
+	  "voyager:entity/tardigrade/hurt_1",
+	  "voyager:entity/tardigrade/hurt_2",
+	  "voyager:entity/tardigrade/hurt_3",
+	  "voyager:entity/tardigrade/hurt_4"
+	]
+  },
+  "entity.tardigrade.death": {
+	"subtitle": "voyager.subtitle.entity.tardigrade_death",
+	"sounds": [
+	  "voyager:entity/tardigrade/death_1",
+	  "voyager:entity/tardigrade/death_2"
+	]
+  },
+  "entity.tardigrade.charge": {
+	"subtitle": "voyager.subtitle.entity.tardigrade_charge",
+	"sounds": [
+	  "voyager:entity/tardigrade/charge_1",
+	  "voyager:entity/tardigrade/charge_2",
+	  "voyager:entity/tardigrade/charge_3"
+	]
+  },
+  "environment.gravity.enter": {
+	"subtitle": "voyager.subtitle.environment.gravity_enter",
+	"sounds": [
+	  "voyager:environment/gravity/enter"
+	]
+  },
+  "environment.gravity.exit": {
+	"subtitle": "voyager.subtitle.environment.gravity_exit",
+	"sounds": [
+	  "voyager:environment/gravity/exit"
+	]
+  },
+  "item.vacuum.pull": {
+	"subtitle": "voyager.subtitle.item.vacuum.pull",
+	"sounds": [
+	  "voyager:item/vacuum/vacuum_1",
+	  "voyager:item/vacuum/vacuum_2"
+	]
+  },
+  "item.vacuum.eject": {
+	"subtitle": "voyager.subtitle.item.vacuum.eject",
+	"sounds": [
+	  "voyager:item/vacuum/eject_1",
+	  "voyager:item/vacuum/eject_2"
+	]
+  }
+}

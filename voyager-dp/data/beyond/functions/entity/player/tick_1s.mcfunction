@@ -1,2 +1,0 @@
-execute at @s if predicate beyond:environment/vacuum run function beyond:environment/vacuum/tick_1s
-execute at @s if predicate beyond:environment/low_gravity run function beyond:environment/low_gravity/tick_1s

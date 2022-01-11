@@ -1,0 +1,46 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:carrot_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{voyager:{id:\"shock_cannon\",Charge:0},CustomModelData:7130000}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "translate": "voyager.item.shock_cannon",
+                  "color": "white",
+                  "italic": false
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "translate": "voyager.pack.name.lore"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_damage",
+              "damage": -24
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

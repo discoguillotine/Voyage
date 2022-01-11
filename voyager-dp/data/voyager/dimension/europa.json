@@ -1,0 +1,25 @@
+{
+  "type": "voyager:europa",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 301360590,
+    "settings": "voyager:europa",
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "biomes": [
+        {
+          "biome": "voyager:europa/ice_wastes",
+          "parameters": {
+            "temperature": -2,
+            "humidity": -2,
+            "continentalness": 0,
+            "erosion": 0,
+            "weirdness": 0,
+            "depth": 0,
+            "offset": 0
+          }
+        }
+      ]
+    }
+  }
+}

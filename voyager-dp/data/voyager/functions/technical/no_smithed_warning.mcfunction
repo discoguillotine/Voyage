@@ -1,0 +1,1 @@
+tellraw @a {"translate":"voyager.ui.warning.no_smithed","color":"red","with":[{"translate":"voyager.ui.here","clickEvent":{"action":"open_url","value":"https://www.smithed.dev/libraries"}}]}

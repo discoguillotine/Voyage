@@ -1,6 +1,6 @@
 {
    "values":[
-      "beyond:technical/load",
-      "beyond:technical/tick_1s"
+      "voyager:technical/load",
+      "voyager:technical/tick_1s"
    ]
 }

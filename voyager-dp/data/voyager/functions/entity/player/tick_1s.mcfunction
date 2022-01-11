@@ -1,0 +1,2 @@
+execute at @s if predicate voyager:environment/vacuum run function voyager:environment/vacuum/tick_1s
+execute at @s if predicate voyager:environment/low_gravity run function voyager:environment/low_gravity/tick_1s

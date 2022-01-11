@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/music_disc_13"
   },
   "overrides": [
-	{ "predicate": { "custom_model_data": 7130000 }, "model": "beyond:item/misc/music_disc_ichor" }
+	{ "predicate": { "custom_model_data": 7130000 }, "model": "voyager:item/misc/music_disc_ichor" }
   ]
 }

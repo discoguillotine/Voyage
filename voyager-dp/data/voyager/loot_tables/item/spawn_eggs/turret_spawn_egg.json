@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:panda_spawn_egg",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{voyager:{id:\"spawn_egg\"},CustomModelData:7130000,EntityTag:{id:\"minecraft:marker\",Tags:[\"voyager.entity\",\"voyager.spawn_egg\",\"voyager.spawn_egg.turret\"]}}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "translate": "voyager.item.turret_spawn_egg",
+                  "color": "white",
+                  "italic": "false"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "translate": "voyager.pack.name.lore"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

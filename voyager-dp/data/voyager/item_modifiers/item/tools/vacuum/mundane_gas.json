@@ -1,0 +1,34 @@
+[
+  {
+    "function": "minecraft:set_nbt",
+    "tag": "{display:{Lore:[]},voyager:{contents:{id:\"mundane_gas\"}}}"
+  },
+  {
+    "function": "minecraft:set_lore",
+    "lore": [
+      {
+        "translate": "voyager.item.mundane_gas",
+        "color": "gray",
+        "italic": false
+      },
+      [
+        {
+          "score": {
+            "name": "@s",
+            "objective": "voyager.dummy_1"
+          },
+          "color": "gray",
+          "italic": false
+        },
+        {
+          "text": "/16",
+          "color": "gray",
+          "italic": false
+        }
+      ],
+      {
+        "translate": "voyager.pack.name.lore"
+      }
+    ]
+  }
+]
