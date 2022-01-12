@@ -4,7 +4,7 @@
   "predicate": {
     "equipment": {
       "mainhand": {
-        "nbt": "{voyager:{contents:{id:\"pestilential_gas\"}}}"
+        "nbt": "{voyager:{contents:{id:\"pestilent_gas\"}}}"
       }
     }
   }

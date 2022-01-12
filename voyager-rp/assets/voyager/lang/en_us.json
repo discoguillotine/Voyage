@@ -34,7 +34,7 @@
 	"voyager.item.opaque_gas": "Opaque Gas",
 	"voyager.item.crude_gas": "Crude Gas",
 	"voyager.item.mundane_gas": "Mundane Gas",
-	"voyager.item.pestilential_gas": "Pestilential Gas",
+	"voyager.item.pestilent_gas": "Pestilent Gas",
 	"voyager.item.vacuum": "Vacuum",
 	"voyager.item.vacuum.count_1": "%s/1",
 	"voyager.item.vacuum.count_16": "%s/16",

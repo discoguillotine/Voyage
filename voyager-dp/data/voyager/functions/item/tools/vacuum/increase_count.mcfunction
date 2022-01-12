@@ -6,7 +6,7 @@ item modify entity @s weapon.mainhand voyager:item/tools/vacuum/change_count
 
 ## Content Types (temporary, fix up a custom count display modifier goober)
 execute if predicate voyager:item/tools/vacuum/mundane_gas run item modify entity @s weapon.mainhand voyager:item/tools/vacuum/mundane_gas
-execute if predicate voyager:item/tools/vacuum/pestilential_gas run item modify entity @s weapon.mainhand voyager:item/tools/vacuum/pestilential_gas
+execute if predicate voyager:item/tools/vacuum/pestilent_gas run item modify entity @s weapon.mainhand voyager:item/tools/vacuum/pestilent_gas
 
 item modify entity @s weapon.mainhand voyager:item/tools/vacuum/count_16
 item modify entity @s weapon.mainhand voyager:item/pack
