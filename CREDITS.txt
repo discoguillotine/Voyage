@@ -6,4 +6,5 @@ Score Based Damage : https://github.com/rx-modules/Score-Based-Damage
 Tardigrade SFX : https://freesound.org/people/LittleRobotSoundFactory/
 Vacuum Pull SFX : https://freesound.org/people/bjornredtail/
 Vacuum Eject SFX : https://freesound.org/people/Omar%20Alvarado/
+Vacuum Capsule SFX : https://freesound.org/people/GFL7/
 Player Float SFX : https://freesound.org/people/neezen./

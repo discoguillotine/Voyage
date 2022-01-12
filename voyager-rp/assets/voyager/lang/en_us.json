@@ -36,6 +36,8 @@
 	"voyager.item.mundane_gas": "Mundane Gas",
 	"voyager.item.pestilential_gas": "Pestilential Gas",
 	"voyager.item.vacuum": "Vacuum",
+	"voyager.item.vacuum.count_1": "%s/1",
+	"voyager.item.vacuum.count_16": "%s/16",
 	"voyager.item.capsule": "Vacuum Capsule",
 	"voyager.item.space_helmet": "Space Mask",
 	"voyager.item.spacesuit": "Spacesuit",
@@ -46,7 +48,8 @@
 
 	"voyager.subtitle.item.vacuum.pull": "Vacuum pulls",
 	"voyager.subtitle.item.vacuum.eject": "Vacuum ejects",
-	"voyager.subtitle.item.vacuum.dispense": "Vacuum dispenses into capsule",
+	"voyager.subtitle.item.vacuum.capsule_out": "Vacuum empties into capsule",
+	"voyager.subtitle.item.vacuum.capsule_in": "Capsule empties into vacuum",
 	
 	"voyager.entity.turret": "Ruin Turret",
 	"voyager.entity.gate": "Ruin Gate",

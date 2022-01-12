@@ -1,13 +1,13 @@
 [
   {
     "function": "minecraft:set_nbt",
-    "tag": "{display:{Lore:[]},voyager:{contents:{id:\"mundane_gas\"}}}"
+    "tag": "{display:{Lore:[]},voyager:{contents:{id:\"pestilential_gas\"}}}"
   },
   {
     "function": "minecraft:set_lore",
     "lore": [
       {
-        "translate": "voyager.item.mundane_gas",
+        "translate": "voyager.item.pestilential_gas",
         "color": "gray",
         "italic": false
       }

@@ -8,8 +8,6 @@ scoreboard objectives add voyager.hurt dummy
 
 ## Player
 scoreboard objectives add voyager.coas minecraft.used:minecraft.carrot_on_a_stick
-scoreboard objectives add voyager.sneak minecraft.custom:minecraft.sneak_time
-scoreboard objectives add voyager.sprint minecraft.custom:minecraft.sprint_one_cm
 
 ## Damage Library
 scoreboard objectives add voyager.damage dummy

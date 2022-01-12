@@ -4,6 +4,7 @@
   "overrides": [
 	{ "predicate": { "custom_model_data": 7130000 }, "model": "voyager:item/tools/shock_cannon_empty" },
 	{ "predicate": { "custom_model_data": 7130001 }, "model": "voyager:item/tools/shock_cannon_full" },
-	{ "predicate": { "custom_model_data": 7130002 }, "model": "voyager:item/tools/vacuum" }
+	{ "predicate": { "custom_model_data": 7130002 }, "model": "voyager:item/tools/vacuum" },
+	{ "predicate": { "custom_model_data": 7130003 }, "model": "voyager:item/tools/capsule" }
   ]
 }

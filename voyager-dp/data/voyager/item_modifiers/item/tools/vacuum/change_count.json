@@ -3,11 +3,11 @@
     "function": "minecraft:copy_nbt",
     "source": {
       "type": "minecraft:storage",
-      "source": "voyager:temp"
+      "source": "voyager:storage"
     },
     "ops": [
       {
-        "source": "Result",
+        "source": "root.temp.vacuum.result",
         "target": "voyager.contents.Count",
         "op": "replace"
       }

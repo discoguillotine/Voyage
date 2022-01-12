@@ -1,0 +1,10 @@
+[
+  {
+    "function": "minecraft:set_lore",
+    "lore": [
+      {
+        "translate": "voyager.pack.name.lore"
+      }
+    ]
+  }
+]

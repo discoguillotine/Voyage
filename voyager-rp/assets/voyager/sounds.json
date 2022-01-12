@@ -98,5 +98,17 @@
 	  "voyager:item/vacuum/eject_1",
 	  "voyager:item/vacuum/eject_2"
 	]
+  },
+  "item.vacuum.capsule_in": {
+	"subtitle": "voyager.subtitle.item.vacuum.capsule_in",
+	"sounds": [
+	  "voyager:item/vacuum/capsule_in"
+	]
+  },
+  "item.vacuum.capsule_out": {
+	"subtitle": "voyager.subtitle.item.vacuum.capsule_out",
+	"sounds": [
+	  "voyager:item/vacuum/capsule_out"
+	]
   }
 }
