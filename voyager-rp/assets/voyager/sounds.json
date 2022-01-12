@@ -49,6 +49,14 @@
 	  "voyager:music/records/ichor"
 	]
   },
+  "entity.tardigrade.idle": {
+	"subtitle": "voyager.subtitle.entity.tardigrade_idle",
+	"sounds": [
+	  "voyager:entity/tardigrade/idle_1",
+	  "voyager:entity/tardigrade/idle_2",
+	  "voyager:entity/tardigrade/idle_3"
+	]
+  },
   "entity.tardigrade.hurt": {
 	"subtitle": "voyager.subtitle.entity.tardigrade_hurt",
 	"sounds": [

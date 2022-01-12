@@ -50,20 +50,23 @@
 	"voyager.subtitle.item.vacuum.eject": "Vacuum ejects",
 	"voyager.subtitle.item.vacuum.capsule_out": "Vacuum empties into capsule",
 	"voyager.subtitle.item.vacuum.capsule_in": "Capsule empties into vacuum",
+
+	"voyager.block.alarm": "Ruin Alarm",
+
+	"voyager.subtitle.block.alarm_activate": "Alarm activates",
+	"voyager.subtitle.block.alarm_ambient": "Alarm blares",
+	"voyager.subtitle.block.machine_ambient": "Machinery hums",
 	
 	"voyager.entity.turret": "Ruin Turret",
 	"voyager.entity.gate": "Ruin Gate",
 	"voyager.entity.centry": "Centry",
 	"voyager.entity.tardigrade": "Tardigrade",
 	
-	"voyager.subtitle.block.alarm_activate": "Alarm activates",
-	"voyager.subtitle.block.alarm_ambient": "Alarm blares",
-	"voyager.subtitle.block.machine_ambient": "Machinery hums",
 	"voyager.subtitle.entity.turret_ambient": "Ruin Turret hums",
 	"voyager.subtitle.entity.turret_hurt": "Ruin Turret hurts",
 	"voyager.subtitle.entity.turret_death": "Ruin Turret dies",
 	"voyager.subtitle.entity.turret_shoot": "Ruin Turret shoots",
-	"voyager.subtitle.entity.tardigrade_ambient": "Tardigrade warbles",
+	"voyager.subtitle.entity.tardigrade_idle": "Tardigrade babbles",
 	"voyager.subtitle.entity.tardigrade_hurt": "Tardigrade hurts",
 	"voyager.subtitle.entity.tardigrade_death": "Tardigrade dies",
 	"voyager.subtitle.entity.tardigrade_charge": "Tardigrade launches",

@@ -1,4 +1,3 @@
-
 {
   "type": "minecraft:generic",
   "pools": [
@@ -7,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:music_disc_11",
+          "name": "minecraft:panda_spawn_egg",
           "functions": [
             {
               "function": "minecraft:set_count",
@@ -15,16 +14,21 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{voyager:{id:\"music_disc_ichor\"},HideFlags:32,CustomModelData:7130000}"
+              "tag": "{voyager:{id:\"spawn_egg\"},CustomModelData:7130001,EntityTag:{id:\"minecraft:marker\",Tags:[\"voyager.entity\",\"voyager.spawn_egg\",\"voyager.spawn_egg.tardigrade\"]}}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "translate": "voyager.item.tardigrade_spawn_egg",
+                  "color": "white",
+                  "italic": "false"
+                }
+              ]
             },
             {
               "function": "minecraft:set_lore",
               "lore": [
-                {
-                  "translate": "voyager.item.record.ichor",
-                  "italic": false,
-                  "color": "gray"
-                },
                 {
                   "translate": "voyager.pack.name.lore"
                 }

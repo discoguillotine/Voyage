@@ -3,6 +3,9 @@ execute if entity @s[tag=voyager.entity.turret] run function voyager:entity/turr
 execute if entity @s[tag=voyager.entity.turret.projectile] run function voyager:entity/turret/projectile/tick
 execute if entity @s[tag=voyager.entity.tardigrade] run function voyager:entity/tardigrade/tick
 
+## Creatures General
+execute if entity @s[tag=voyager.entity.display.head] run function voyager:entity/general/display_head
+
 ## Misc Entities
 execute if entity @s[tag=voyager.entity.gas] run function voyager:entity/gas/tick
 
