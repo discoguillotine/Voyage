@@ -2,6 +2,9 @@
 scoreboard objectives add voyager.dummy_1 dummy
 scoreboard objectives add voyager.dummy_2 dummy
 scoreboard objectives add voyager.dummy_3 dummy
+scoreboard objectives add voyager.entity_1 dummy
+scoreboard objectives add voyager.entity_2 dummy
+scoreboard objectives add voyager.entity_3 dummy
 
 ## Entity stuff
 scoreboard objectives add voyager.hurt dummy

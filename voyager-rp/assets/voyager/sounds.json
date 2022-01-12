@@ -44,9 +44,44 @@
 	  "voyager:item/shock_cannon/shoot_2"
 	]
   },
-  "music.record.ichor": {
+  "entity.moon_slug.hurt": {
+	"subtitle": "voyager.subtitle.entity.moon_slug_hurt",
 	"sounds": [
-	  "voyager:music/records/ichor"
+	  "minecraft:mob/slime/small1",
+	  "minecraft:mob/slime/small2",
+	  "minecraft:mob/slime/small3",
+	  "minecraft:mob/slime/small4",
+	  "minecraft:mob/slime/small5"
+	]
+  },
+  "entity.moon_slug.death": {
+	"subtitle": "voyager.subtitle.entity.moon_slug_death",
+	"sounds": [
+	  "minecraft:mob/slime/small1",
+	  "minecraft:mob/slime/small2",
+	  "minecraft:mob/slime/small3",
+	  "minecraft:mob/slime/small4",
+	  "minecraft:mob/slime/small5"
+	]
+  },
+  "entity.moon_slug.eat": {
+	"subtitle": "voyager.subtitle.entity.moon_slug_eat",
+	"sounds": [
+	  "voyager:entity/moon_slug/eat_1",
+	  "voyager:entity/moon_slug/eat_2",
+	  "voyager:entity/moon_slug/eat_3"
+	]
+  },
+  "entity.moon_slug.grow": {
+	"subtitle": "voyager.subtitle.entity.moon_slug_grow",
+	"sounds": [
+	  "voyager:entity/moon_slug/grow"
+	]
+  },
+  "entity.moon_slug.mitosis": {
+	"subtitle": "voyager.subtitle.entity.moon_slug_mitosis",
+	"sounds": [
+	  "voyager:entity/moon_slug/mitosis"
 	]
   },
   "entity.tardigrade.idle": {
@@ -117,6 +152,11 @@
 	"subtitle": "voyager.subtitle.item.vacuum.capsule_out",
 	"sounds": [
 	  "voyager:item/vacuum/capsule_out"
+	]
+  },
+  "music.record.ichor": {
+	"sounds": [
+	  "voyager:music/records/ichor"
 	]
   }
 }

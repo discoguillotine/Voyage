@@ -1,6 +1,6 @@
 particle minecraft:poof ~ ~0.5 ~ 0 0 0 0.25 15
 playsound voyager:entity.tardigrade.charge hostile @a ~ ~ ~ 1.5
-scoreboard players reset @s voyager.dummy_2
+scoreboard players reset @s voyager.entity_1
 
 teleport @s ^ ^ ^ facing entity @p[distance=..24,gamemode=!creative,gamemode=!spectator]
 execute if entity @a[distance=..24] facing entity @p[gamemode=!creative,gamemode=!spectator] feet positioned 0.0 0 0.0 in minecraft:overworld run summon marker ^ ^ ^1.25 {Tags:["voyager.direction"]}

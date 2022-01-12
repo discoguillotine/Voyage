@@ -1,6 +1,6 @@
 [
   {
     "function": "minecraft:set_nbt",
-    "tag": "{display:{Lore:[]},voyager:{contents:{id:\"empty\",Count:0}}}"
+    "tag": "{display:{Lore:[]},voyager:{contents:{id:\"empty\",Count:0,entityData:{}}}}"
   }
 ]

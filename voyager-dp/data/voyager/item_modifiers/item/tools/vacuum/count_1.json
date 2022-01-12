@@ -1,0 +1,19 @@
+{
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      {
+        "translate": "voyager.item.vacuum.count_1",
+        "with": [
+          {
+            "score": {
+              "name": "$voyager.temp",
+              "objective": "voyager.dummy_1"
+            }
+          }
+        ],
+        "color": "gray",
+        "italic": false
+      }
+    ]
+  }

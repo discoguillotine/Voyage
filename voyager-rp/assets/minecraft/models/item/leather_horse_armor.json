@@ -4,6 +4,10 @@
     "layer0": "minecraft:item/leather_horse_armor"
               },
   "overrides": [
-	{ "predicate": { "custom_model_data": 7130000 }, "model": "voyager:entity/tardigrade/idle" }
+	{ "predicate": { "custom_model_data": 7130000 }, "model": "voyager:entity/tardigrade/idle" },
+	{ "predicate": { "custom_model_data": 7130001 }, "model": "voyager:entity/moon_slug/small" },
+	{ "predicate": { "custom_model_data": 7130002 }, "model": "voyager:entity/moon_slug/medium" },
+	{ "predicate": { "custom_model_data": 7130003 }, "model": "voyager:entity/moon_slug/large" },
+	{ "predicate": { "custom_model_data": 7130004 }, "model": "voyager:entity/moon_slug/giant" }
   ]
 }

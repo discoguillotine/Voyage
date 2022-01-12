@@ -1,0 +1,2 @@
+execute if score @s voyager.hurt matches 1..10 run item modify entity @s weapon.mainhand voyager:entity/hurt
+execute if score @s voyager.hurt matches 0 run item modify entity @s weapon.mainhand voyager:entity/unhurt
