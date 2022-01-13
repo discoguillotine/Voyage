@@ -1,0 +1,13 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:reference",
+      "name": "voyager:item/held/bacteria"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "voyager:item/held/bacteria_offhand"
+    }
+  ]
+}

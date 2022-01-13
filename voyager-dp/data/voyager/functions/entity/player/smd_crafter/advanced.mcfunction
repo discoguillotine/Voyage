@@ -1,0 +1,1 @@
+execute if predicate voyager:entity/player/smd_crafter/advanced/capsule store success score $temp smd.data run function voyager:entity/player/smd_crafter/advanced/clear_capsule

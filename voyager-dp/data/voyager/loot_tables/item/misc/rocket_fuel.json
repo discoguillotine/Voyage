@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:generic",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:carrot_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 1
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{voyager:{id:\"rocket_fuel\"},CustomModelData:7130004}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "name": [
+                {
+                  "translate": "voyager.item.rocket_fuel",
+                  "color": "white",
+                  "italic": "false"
+                }
+              ]
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                {
+                  "translate": "voyager.pack.name.lore"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -6,6 +6,7 @@
 	{ "predicate": { "custom_model_data": 7130002 }, "model": "voyager:entity/spark" },
 	{ "predicate": { "custom_model_data": 7130003 }, "model": "voyager:item/resources/titanium_ingot" },
 	{ "predicate": { "custom_model_data": 7130004 }, "model": "voyager:item/resources/copper_coil" },
-	{ "predicate": { "custom_model_data": 7130005 }, "model": "voyager:item/resources/blubber" }
+	{ "predicate": { "custom_model_data": 7130005 }, "model": "voyager:item/resources/blubber" },
+	{ "predicate": { "custom_model_data": 7130006 }, "model": "voyager:item/misc/bacteria" }
   ]
 }
