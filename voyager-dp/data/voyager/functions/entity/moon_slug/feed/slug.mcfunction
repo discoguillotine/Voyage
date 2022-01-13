@@ -1,5 +1,8 @@
 playsound voyager:entity.moon_slug.eat neutral @a
-particle minecraft:happy_villager ~ ~0.5 ~ 0.25 0.25 0.25 0 1 force
+execute as @s[tag=voyager.entity.moon_slug.small] run particle minecraft:happy_villager ~ ~0.5 ~ 0.25 0.25 0.25 0 1 force
+execute as @s[tag=voyager.entity.moon_slug.medium] run particle minecraft:happy_villager ~ ~0.5 ~ 0.4 0.4 0.4 0 2 force
+execute as @s[tag=voyager.entity.moon_slug.large] run particle minecraft:happy_villager ~ ~0.5 ~ 0.5 0.5 0.5 0 3 force
+
 scoreboard players add @s voyager.entity_1 1
 
 execute if score @s voyager.entity_1 matches 8..15 if predicate voyager:entity/moon_slug/age_1 run function voyager:entity/moon_slug/feed/grow

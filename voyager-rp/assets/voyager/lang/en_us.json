@@ -77,6 +77,7 @@
 	"voyager.subtitle.environment.gravity_exit": "Something exits gravity",
 
 	"voyager.subtitle.player.player_hurt_zap": "Player shocked",
+	"voyager.subtitle.player.player_hurt_gravity": "Player squishes",
 	"voyager.subtitle.player.float": "Player floats",
 
 	"voyager.item.record.ichor": "Psychic - Ichor",
@@ -99,13 +100,20 @@
 	
 	"voyager.biome.mars.martian_waste": "Martian Desert",
 	"voyager.biome.mars.martian_oasis": "Martian Oasis",
+
+	"voyager.advancement.solar.root": "Solar System",
+	"voyager.advancement.solar.root.desc": "You are here!",
+	"voyager.advancement.solar.the_moon": "One Small Step",
+	"voyager.advancement.solar.the_moon.desc": "Enter the End's Moon Gate to travel to The Moon",
+	"voyager.advancement.solar.moon_slug": "Rabbit in the Moon",
+	"voyager.advancement.solar.moon_slug.desc": "Feed a Moon Slug some Bacteria",
 	
 	"voyager.death.deprived": "%s couldn't breathe",
 	"voyager.death.gigachill": "%s discovered what cryostasis is like",
-	"voyager.death.heat": "%s had a heatstroke",
-	"voyager.death.nuclear": "%s became unrecognizable",
-	"voyager.death.poison": "%s forgot the milk",
+	"voyager.death.gravity": "%s was crushed by an invisible force",
 	"voyager.death.shock": "%s couldn't handle the watts",
+	"voyager.death.heat": "%s had a heatstroke",
+	"voyager.death.poison": "%s forgot the milk",
 	"voyager.death.shock.entity": "%s was electrocuted by %s",
 	"voyager.death.eaten.entity": "%s was consumed by %s",
 	"voyager.death.force.entity": "%s was crushed by %s",

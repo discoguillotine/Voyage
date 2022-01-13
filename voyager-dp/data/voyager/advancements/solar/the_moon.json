@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:light_gray_concrete_powder"
+    },
+    "title": {
+      "translate": "voyager.advancement.solar.the_moon"
+    },
+    "description": {
+      "translate": "voyager.advancement.solar.the_moon.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "voyager:solar/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "from": "minecraft:the_end",
+        "to": "voyager:the_moon"
+      }
+    }
+  }
+}
