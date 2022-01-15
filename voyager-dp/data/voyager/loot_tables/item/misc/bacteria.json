@@ -14,7 +14,7 @@
             },
             {
               "function": "minecraft:set_nbt",
-              "tag": "{voyager:{id:\"bacteria\"},CustomModelData:7130006}"
+              "tag": "{voyager:{id:\"bacteria\",genes:{mainGene:\"blank\",hiddenGene:\"blank\"}},CustomModelData:7130006}"
             },
             {
               "function": "minecraft:set_name",

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/suspicious_stew"
+  },
+  "overrides": [
+	{ "predicate": { "custom_model_data": 7130000 }, "model": "voyager:item/food/moonfoam_pudding" }
+  ]
+}

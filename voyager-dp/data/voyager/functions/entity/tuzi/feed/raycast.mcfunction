@@ -1,0 +1,2 @@
+execute unless entity @e[tag=voyager.entity.tuzi,tag=!voyager.entity.tuzi.mitosis,distance=..1,scores={voyager.entity_3=0}] if entity @s[distance=0..6] positioned ^ ^ ^0.1 run function voyager:entity/tuzi/feed/raycast
+execute if entity @e[tag=voyager.entity.tuzi,tag=!voyager.entity.tuzi.mitosis,distance=..1,scores={voyager.entity_3=0}] run function voyager:entity/tuzi/feed/end

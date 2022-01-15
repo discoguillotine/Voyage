@@ -52,8 +52,8 @@
 	  "voyager:item/shock_cannon/shoot_2"
 	]
   },
-  "entity.moon_slug.hurt": {
-	"subtitle": "voyager.subtitle.entity.moon_slug_hurt",
+  "entity.tuzi.hurt": {
+	"subtitle": "voyager.subtitle.entity.tuzi_hurt",
 	"sounds": [
 	  "minecraft:mob/slime/small1",
 	  "minecraft:mob/slime/small2",
@@ -62,8 +62,8 @@
 	  "minecraft:mob/slime/small5"
 	]
   },
-  "entity.moon_slug.death": {
-	"subtitle": "voyager.subtitle.entity.moon_slug_death",
+  "entity.tuzi.death": {
+	"subtitle": "voyager.subtitle.entity.tuzi_death",
 	"sounds": [
 	  "minecraft:mob/slime/small1",
 	  "minecraft:mob/slime/small2",
@@ -72,24 +72,24 @@
 	  "minecraft:mob/slime/small5"
 	]
   },
-  "entity.moon_slug.eat": {
-	"subtitle": "voyager.subtitle.entity.moon_slug_eat",
+  "entity.tuzi.eat": {
+	"subtitle": "voyager.subtitle.entity.tuzi_eat",
 	"sounds": [
-	  "voyager:entity/moon_slug/eat_1",
-	  "voyager:entity/moon_slug/eat_2",
-	  "voyager:entity/moon_slug/eat_3"
+	  "voyager:entity/tuzi/eat_1",
+	  "voyager:entity/tuzi/eat_2",
+	  "voyager:entity/tuzi/eat_3"
 	]
   },
-  "entity.moon_slug.grow": {
-	"subtitle": "voyager.subtitle.entity.moon_slug_grow",
+  "entity.tuzi.grow": {
+	"subtitle": "voyager.subtitle.entity.tuzi_grow",
 	"sounds": [
-	  "voyager:entity/moon_slug/grow"
+	  "voyager:entity/tuzi/grow"
 	]
   },
-  "entity.moon_slug.mitosis": {
-	"subtitle": "voyager.subtitle.entity.moon_slug_mitosis",
+  "entity.tuzi.mitosis": {
+	"subtitle": "voyager.subtitle.entity.tuzi_mitosis",
 	"sounds": [
-	  "voyager:entity/moon_slug/mitosis"
+	  "voyager:entity/tuzi/mitosis"
 	]
   },
   "entity.tardigrade.idle": {

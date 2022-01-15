@@ -20,9 +20,10 @@
               "function": "minecraft:set_name",
               "name": [
                 {
-                  "translate": "voyager.item.tardigrade_spawn_egg",
+                  "translate": "voyager.item.spawn_egg",
                   "color": "white",
-                  "italic": "false"
+                  "italic": "false",
+                  "with":[{"translate":"voyager.entity.tardigrade"}]
                 }
               ]
             },

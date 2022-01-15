@@ -15,14 +15,14 @@
 	"voyager.entity.rocket_tier_3": "Solar Spaceship",
 	"voyager.entity.rocket_tier_4": "Voyager",
 	
-	"voyager.item.turret_spawn_egg": "Ruin Turret Spawn Egg",
-	"voyager.item.tardigrade_spawn_egg": "Tardigrade Spawn Egg",
+	"voyager.item.spawn_egg": "%s Spawn Egg",
 	
 	"voyager.item.copper_coil": "Copper Wire Coil",
 	"voyager.item.raw_titanium": "Raw Titanium",
 	"voyager.item.titanium_ingot": "Titanium Ingot",
 	"voyager.item.titanium_nugget": "Titanium Nugget",
 	"voyager.item.moon_slime": "Lunar Slimeball",
+	"voyager.item.moonfoam_pudding": "Moonfoam Pudding",
 	"voyager.item.opaque_gas": "Opaque Gas",
 	"voyager.item.crude_gas": "Crude Gas",
 	"voyager.item.mundane_gas": "Mundane Gas",
@@ -35,7 +35,6 @@
 	"voyager.item.space_helmet": "Space Mask",
 	"voyager.item.spacesuit": "Spacesuit",
 	"voyager.item.blubber": "Dense Fat",
-	"voyager.item.bacteria": "Bacteria Sample",
 	"voyager.item.blubber_helmet": "Insulated Hat",
 	"voyager.item.blubber_chestplate": "Insulated Tunic",
 	"voyager.item.blubber_leggings": "Insulated Trousers",
@@ -43,12 +42,25 @@
 	"voyager.item.raw_uranium": "Raw Uranium",
 	"voyager.item.uranium_ingot": "Uranium Ingot",
 	"voyager.item.uranium_nugget": "Uranium Nugget",
-
+	
+	"voyager.item.bacteria": "Bacteria Sample",
+	"voyager.item.dead_bacteria": "Deceased Bacteria",
+	"voyager.item.bacteria_with_gene": "%s Bacteria",
+	"voyager.item.bacteria.gene.blank": "Uninteresting",
+	"voyager.item.bacteria.gene.temperature": "Immortal",
+	"voyager.item.bacteria.gene.growth": "Fertile",
+	"voyager.item.bacteria.gene.yield": "Enthralled",
+	"voyager.item.bacteria.gene.spread": "Contagious",
+	"voyager.item.bacteria.status.low": "Fatal",
+	"voyager.item.bacteria.status.mid": "Weakened",
+	"voyager.item.bacteria.status.normal": "Average",
+	"voyager.item.bacteria.status.healthy": "Thriving",
+	
 	"voyager.subtitle.item.vacuum.pull": "Vacuum pulls",
 	"voyager.subtitle.item.vacuum.eject": "Vacuum ejects",
 	"voyager.subtitle.item.vacuum.capsule_out": "Vacuum empties into capsule",
 	"voyager.subtitle.item.vacuum.capsule_in": "Capsule empties into vacuum",
-
+	
 	"voyager.block.alarm": "Ruin Alarm",
 
 	"voyager.subtitle.block.alarm_activate": "Alarm activates",
@@ -56,19 +68,19 @@
 	"voyager.subtitle.block.machine_ambient": "Machinery hums",
 	
 	"voyager.entity.turret": "Ruin Turret",
-	"voyager.entity.moon_slug": "Moon Slug",
+	"voyager.entity.tuzi": "Tuzi",
 	"voyager.entity.tardigrade": "Tardigrade",
 	
 	"voyager.subtitle.entity.turret_ambient": "Ruin Turret hums",
 	"voyager.subtitle.entity.turret_hurt": "Ruin Turret hurts",
 	"voyager.subtitle.entity.turret_death": "Ruin Turret dies",
 	"voyager.subtitle.entity.turret_shoot": "Ruin Turret shoots",
-	"voyager.subtitle.entity.moon_slug_idle": "Moon Slug peeps",
-	"voyager.subtitle.entity.moon_slug_hurt": "Moon Slug hurts",
-	"voyager.subtitle.entity.moon_slug_death": "Moon Slug dies",
-	"voyager.subtitle.entity.moon_slug_eat": "Moon Slug chews",
-	"voyager.subtitle.entity.moon_slug_grow": "Moon Slug grows",
-	"voyager.subtitle.entity.moon_slug_mitosis": "Moon Slug bursts",
+	"voyager.subtitle.entity.tuzi_idle": "Tuzi peeps",
+	"voyager.subtitle.entity.tuzi_hurt": "Tuzi hurts",
+	"voyager.subtitle.entity.tuzi_death": "Tuzi dies",
+	"voyager.subtitle.entity.tuzi_eat": "Tuzi chews",
+	"voyager.subtitle.entity.tuzi_grow": "Tuzi grows",
+	"voyager.subtitle.entity.tuzi_mitosis": "Tuzi bursts",
 	"voyager.subtitle.entity.tardigrade_idle": "Tardigrade babbles",
 	"voyager.subtitle.entity.tardigrade_hurt": "Tardigrade hurts",
 	"voyager.subtitle.entity.tardigrade_death": "Tardigrade dies",
@@ -76,47 +88,46 @@
 	
 	"voyager.subtitle.environment.gravity_enter": "Something enters gravity",
 	"voyager.subtitle.environment.gravity_exit": "Something exits gravity",
-
+	
 	"voyager.subtitle.player.player_hurt_zap": "Player shocked",
 	"voyager.subtitle.player.player_hurt_gravity": "Player squishes",
 	"voyager.subtitle.player.float": "Player floats",
-
+	
 	"voyager.item.record.ichor": "Psychic - Ichor",
 	
 	"voyager.music.record.ichor": "Now Playing: Psychic - Ichor",
 	"voyager.music.ambient.dreams": "Now Playing: Psychic - Dreams",
 	"voyager.music.ambient.dark_side": "Now Playing: Psychic - The Dark Side",
 	"voyager.music.ambient.cling_clang": "Now Playing: Psychic - Clings and Clangs of Below",
-
+	
 	"voyager.dimension.moon": "The Moon",
 	"voyager.dimension.inner_belt": "Asteroid Belt",
 	"voyager.dimension.mars": "Mars",
-
+	
 	"voyager.biome.moon.lunar_waste": "Lunar Wastes",
 	"voyager.biome.moon.ice_lake": "Dry Ice Lakes",
 	"voyager.biome.moon.crystal_cove": "Crystal Spires",
-
+	
 	"voyager.biome.inner_belt.asteroid_waste": "Asteroid Field",
 	"voyager.biome.inner_belt.spaceship_ruin": "Spaceship Graveyard",
 	
 	"voyager.biome.mars.martian_waste": "Martian Desert",
 	"voyager.biome.mars.martian_oasis": "Martian Oasis",
-
+	
 	"voyager.advancement.solar.root": "Solar System",
 	"voyager.advancement.solar.root.desc": "You are here!",
 	"voyager.advancement.solar.the_moon": "One Small Step",
 	"voyager.advancement.solar.the_moon.desc": "Enter the End's Moon Gate to travel to The Moon",
-	"voyager.advancement.solar.moon_slug": "Rabbit in the Moon",
-	"voyager.advancement.solar.moon_slug.desc": "Feed a Moon Slug some Bacteria",
+	"voyager.advancement.solar.tuzi": "Rabbit in the Moon",
+	"voyager.advancement.solar.tuzi.desc": "Feed a Tuzi some Bacteria",
 	
 	"voyager.death.deprived": "%s couldn't breathe",
-	"voyager.death.gigachill": "%s discovered what cryostasis is like",
+	"voyager.death.cold": "%s was too cool for this world",
+	"voyager.death.heat": "%s had a heatstroke",
 	"voyager.death.gravity": "%s was crushed by an invisible force",
 	"voyager.death.shock": "%s couldn't handle the watts",
-	"voyager.death.heat": "%s had a heatstroke",
 	"voyager.death.poison": "%s forgot the milk",
 	"voyager.death.shock.entity": "%s was electrocuted by %s",
 	"voyager.death.eaten.entity": "%s was consumed by %s",
-	"voyager.death.force.entity": "%s was crushed by %s",
-	"voyager.death.soul.entity": "%s's soul was eaten by %s"
+	"voyager.death.force.entity": "%s was crushed by %s"
 }

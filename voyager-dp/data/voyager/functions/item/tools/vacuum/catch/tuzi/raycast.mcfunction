@@ -1,0 +1,2 @@
+execute unless entity @e[tag=voyager.entity.tuzi.small,distance=..1] if entity @s[distance=0..6] positioned ^ ^ ^0.1 run function voyager:item/tools/vacuum/catch/tuzi/raycast
+execute if entity @e[tag=voyager.entity.tuzi.small,distance=..1] run function voyager:item/tools/vacuum/catch/tuzi/end

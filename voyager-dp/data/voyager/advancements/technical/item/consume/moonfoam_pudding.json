@@ -1,0 +1,19 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:suspicious_stew"
+            ],
+            "nbt": "{voyager:{id:\"moonfoam_pudding\"}}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "voyager:item/consume/moonfoam_pudding"
+    }
+  }
+  

@@ -10,6 +10,7 @@ scoreboard objectives add voyager.entity_3 dummy
 scoreboard objectives add voyager.hurt dummy
 
 ## Player
+scoreboard objectives add voyager.health health
 scoreboard objectives add voyager.coas minecraft.used:minecraft.carrot_on_a_stick
 
 ## Damage Library

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "voyager:item/spawn_eggs/tuzi_spawn_egg"
+  }
+}

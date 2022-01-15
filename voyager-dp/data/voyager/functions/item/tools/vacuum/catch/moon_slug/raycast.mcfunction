@@ -1,2 +1,0 @@
-execute unless entity @e[tag=voyager.entity.moon_slug.small,distance=..1] if entity @s[distance=0..6] positioned ^ ^ ^0.1 run function voyager:item/tools/vacuum/catch/moon_slug/raycast
-execute if entity @e[tag=voyager.entity.moon_slug.small,distance=..1] run function voyager:item/tools/vacuum/catch/moon_slug/end
