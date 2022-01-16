@@ -13,4 +13,4 @@ execute as @s[tag=voyager.entity.tuzi.small] run tag @s remove voyager.entity.tu
 scoreboard players reset @s voyager.entity_1
 scoreboard players set @s voyager.entity_3 300
 
-tag @s remove voyager.vacuum_allowed
+tag @s remove voyager.tag.vacuum_allowed

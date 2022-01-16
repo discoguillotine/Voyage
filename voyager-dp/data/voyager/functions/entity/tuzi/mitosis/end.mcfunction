@@ -11,7 +11,4 @@ loot spawn ~ ~0.5 ~ loot voyager:item/resources/moon_slime
 execute if predicate voyager:chance/coinflip run loot spawn ~ ~0.5 ~ loot voyager:item/resources/moon_slime
 execute if predicate voyager:chance/coinflip run loot spawn ~ ~0.5 ~ loot voyager:item/resources/moon_slime
 
-function voyager:entity/gas/spawn/pestilent_gas
-scoreboard players set @e[tag=voyager.entity.gas.pestilent,sort=nearest,limit=1] voyager.entity_1 10
-
 kill @s

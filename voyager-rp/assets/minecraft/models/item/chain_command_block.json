@@ -7,6 +7,9 @@
 	{ "predicate": { "custom_model_data": 7130003 }, "model": "voyager:item/resources/titanium_ingot" },
 	{ "predicate": { "custom_model_data": 7130004 }, "model": "voyager:item/resources/copper_coil" },
 	{ "predicate": { "custom_model_data": 7130005 }, "model": "voyager:item/resources/blubber" },
-	{ "predicate": { "custom_model_data": 7130006 }, "model": "voyager:item/misc/bacteria" }
+	{ "predicate": { "custom_model_data": 7130006 }, "model": "voyager:item/misc/bacteria" },
+	{ "predicate": { "custom_model_data": 7130007 }, "model": "voyager:item/resources/titanium_nugget" },
+	{ "predicate": { "custom_model_data": 7130008 }, "model": "voyager:item/resources/uranium_ingot" },
+	{ "predicate": { "custom_model_data": 7130009 }, "model": "voyager:item/resources/uranium_nugget" }
   ]
 }

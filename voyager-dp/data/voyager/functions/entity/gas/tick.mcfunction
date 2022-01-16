@@ -1,3 +1,2 @@
-execute as @s[tag=voyager.entity.gas.crude] run particle minecraft:large_smoke ~ ~ ~ 0.25 0.25 0.25 0.05 2 force
-execute as @s[tag=voyager.entity.gas.mundane] run particle minecraft:spit ~ ~ ~ 0.25 0.25 0.25 0.1 3 force
-execute as @s[tag=voyager.entity.gas.pestilent] run particle minecraft:sneeze ~ ~ ~ 0.5 0.5 0.5 0 1 force
+execute as @s[tag=voyager.entity.gas.mundane] run particle dust 1.000 0.776 0.651 2 ~ ~ ~ 0.25 0.25 0.25 1 1 force
+execute as @s[tag=voyager.entity.gas.pestilent] run particle dust 0.710 0.902 0.180 2 ~ ~ ~ 0.25 0.25 0.25 1 1 force
