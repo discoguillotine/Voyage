@@ -5,9 +5,10 @@ Score Based Damage : https://github.com/rx-modules/Score-Based-Damage
 # Sounds
 Player Crushed Under Gravity SFX : https://freesound.org/people/InspectorJ/sounds/333818/
 Moon Slug Chew SFX : https://freesound.org/people/Clearwavsound/
-Moon Slug Mitosis SFK : https://freesound.org/people/JustInvoke/
+Moon Slug Mitosis SFX : https://freesound.org/people/JustInvoke/
 All Tardigrade SFX : https://freesound.org/people/LittleRobotSoundFactory/
 Vacuum Pull SFX : https://freesound.org/people/bjornredtail/
 Vacuum Eject SFX : https://freesound.org/people/Omar%20Alvarado/
 Vacuum Capsule SFX : https://freesound.org/people/GFL7/
 Player Float SFX : https://freesound.org/people/neezen./
+Droid SFX : https://freesound.org/people/jacobsteel/

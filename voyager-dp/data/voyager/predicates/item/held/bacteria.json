@@ -4,6 +4,10 @@
   "predicate": {
     "equipment": {
       "mainhand": {
+        "count": {
+          "min": 1,
+          "max": 64
+        },
         "nbt": "{voyager:{id:\"bacteria\"}}"
       }
     }

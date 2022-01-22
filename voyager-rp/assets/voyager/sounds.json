@@ -92,6 +92,28 @@
 	  "voyager:entity/tuzi/mitosis"
 	]
   },
+  "entity.droid.detect": {
+	"subtitle": "voyager.subtitle.entity.droid_detect",
+	"sounds": [
+	  "voyager:entity/droid/detect_1",
+	  "voyager:entity/droid/detect_2"
+	]
+  },
+  "entity.droid.hurt": {
+	"subtitle": "voyager.subtitle.entity.droid_hurt",
+	"sounds": [
+	  "voyager:entity/machine/hurt_1",
+	  "voyager:entity/machine/hurt_2",
+	  "voyager:entity/machine/hurt_3"
+	]
+  },
+  "entity.droid.death": {
+	"subtitle": "voyager.subtitle.entity.droid_death",
+	"sounds": [
+	  "voyager:entity/machine/death_1",
+	  "voyager:entity/machine/death_2"
+	]
+  },
   "entity.tardigrade.idle": {
 	"subtitle": "voyager.subtitle.entity.tardigrade_idle",
 	"sounds": [

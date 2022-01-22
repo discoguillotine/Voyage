@@ -67,7 +67,7 @@
 	"voyager.subtitle.block.alarm_ambient": "Alarm blares",
 	"voyager.subtitle.block.machine_ambient": "Machinery hums",
 	
-	"voyager.entity.turret": "Ruin Turret",
+	"voyager.entity.droid": "Security Droid",
 	"voyager.entity.tuzi": "Tuzi",
 	"voyager.entity.tardigrade": "Tardigrade",
 	
@@ -85,6 +85,15 @@
 	"voyager.subtitle.entity.tardigrade_hurt": "Tardigrade hurts",
 	"voyager.subtitle.entity.tardigrade_death": "Tardigrade dies",
 	"voyager.subtitle.entity.tardigrade_charge": "Tardigrade launches",
+	"voyager.subtitle.entity.droid_idle": "Droid whirrs",
+	"voyager.subtitle.entity.droid_hurt": "Droid hurts",
+	"voyager.subtitle.entity.droid_death": "Droid dies",
+	"voyager.subtitle.entity.droid_activate": "Droid activates",
+	"voyager.subtitle.entity.droid_attack_melee": "Droid slams",
+	"voyager.subtitle.entity.droid_attack_tazer": "Droid tazes",
+	"voyager.subtitle.entity.droid_detect": "Droid detects",
+	"voyager.subtitle.entity.droid_step": "Droid stomps",
+	"voyager.subtitle.entity.droid_sprint": "Droid skitters",
 	
 	"voyager.subtitle.environment.gravity_enter": "Something enters gravity",
 	"voyager.subtitle.environment.gravity_exit": "Something exits gravity",
@@ -121,13 +130,13 @@
 	"voyager.advancement.solar.tuzi": "Rabbit in the Moon",
 	"voyager.advancement.solar.tuzi.desc": "Feed a Tuzi some Bacteria",
 	
+	"voyager.death.shock.entity": "%s was electrocuted by %s",
+	"voyager.death.eaten.entity": "%s was consumed by %s",
+	"voyager.death.force.entity": "%s was crushed by %s",
 	"voyager.death.deprived": "%s couldn't breathe",
 	"voyager.death.cold": "%s was too cool for this world",
 	"voyager.death.heat": "%s had a heatstroke",
 	"voyager.death.gravity": "%s was crushed by an invisible force",
 	"voyager.death.shock": "%s couldn't handle the watts",
-	"voyager.death.poison": "%s forgot the milk",
-	"voyager.death.shock.entity": "%s was electrocuted by %s",
-	"voyager.death.eaten.entity": "%s was consumed by %s",
-	"voyager.death.force.entity": "%s was crushed by %s"
+	"voyager.death.poison": "%s forgot the milk"
 }

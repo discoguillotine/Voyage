@@ -1,2 +1,2 @@
-execute if score @s voyager.hurt matches 1..10 run item modify entity @s weapon.mainhand voyager:entity/hurt
-execute if score @s voyager.hurt matches 0 run item modify entity @s weapon.mainhand voyager:entity/unhurt
+execute if predicate voyager:entity/hurt run item modify entity @s weapon.mainhand voyager:entity/hurt
+execute unless predicate voyager:entity/hurt run item modify entity @s weapon.mainhand voyager:entity/unhurt

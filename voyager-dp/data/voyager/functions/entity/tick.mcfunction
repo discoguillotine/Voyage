@@ -1,8 +1,8 @@
 ## Creatures
-execute if entity @s[tag=voyager.entity.turret] run function voyager:entity/turret/tick
 execute if entity @s[tag=voyager.entity.turret.projectile] run function voyager:entity/turret/projectile/tick
 execute if entity @s[tag=voyager.entity.tuzi] run function voyager:entity/tuzi/tick
 execute if entity @s[tag=voyager.entity.tardigrade] run function voyager:entity/tardigrade/tick
+execute if entity @s[tag=voyager.entity.droid] run function voyager:entity/droid/tick
 
 ## Creatures General
 execute if entity @s[tag=voyager.entity.display.head] run function voyager:entity/general/display_head

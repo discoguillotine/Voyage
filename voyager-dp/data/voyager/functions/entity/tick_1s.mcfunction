@@ -2,6 +2,7 @@
 execute if entity @s[tag=voyager.entity.turret] run function voyager:entity/turret/tick_1s
 execute if entity @s[tag=voyager.entity.tuzi] run function voyager:entity/tuzi/tick_1s
 execute if entity @s[tag=voyager.entity.tardigrade] run function voyager:entity/tardigrade/tick_1s
+execute if entity @s[tag=voyager.entity.droid] run function voyager:entity/droid/tick_1s
 
 ## Misc Entities
 execute if entity @s[tag=voyager.entity.gas] run function voyager:entity/gas/tick_1s

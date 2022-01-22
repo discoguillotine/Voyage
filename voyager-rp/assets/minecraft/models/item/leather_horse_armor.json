@@ -8,6 +8,10 @@
 	{ "predicate": { "custom_model_data": 7130001 }, "model": "voyager:entity/tuzi/small" },
 	{ "predicate": { "custom_model_data": 7130002 }, "model": "voyager:entity/tuzi/medium" },
 	{ "predicate": { "custom_model_data": 7130003 }, "model": "voyager:entity/tuzi/large" },
-	{ "predicate": { "custom_model_data": 7130004 }, "model": "voyager:entity/tuzi/giant" }
+	{ "predicate": { "custom_model_data": 7130004 }, "model": "voyager:entity/tuzi/giant" },
+	{ "predicate": { "custom_model_data": 7130005 }, "model": "voyager:entity/droid/idle" },
+	{ "predicate": { "custom_model_data": 7130006 }, "model": "voyager:entity/droid/walking" },
+	{ "predicate": { "custom_model_data": 7130007 }, "model": "voyager:entity/droid/sprint" },
+	{ "predicate": { "custom_model_data": 7130008 }, "model": "voyager:entity/droid/swim" }
   ]
 }

@@ -1,0 +1,13 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:reference",
+      "name": "voyager:entity/player/sprinting"
+    },
+    {
+      "condition": "minecraft:reference",
+      "name": "voyager:entity/just_hurt"
+    }
+  ]
+}
