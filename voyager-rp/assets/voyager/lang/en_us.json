@@ -139,6 +139,12 @@
 	"voyager.advancement.solar.tuzi": "Rabbit in the Moon",
 	"voyager.advancement.solar.tuzi.desc": "Feed a Tuzi some Bacteria",
 	
+	"voyager.advancement.glare.root": "Glare System",
+	"voyager.advancement.glare.root.desc": "The raging star above glitters with infinite power",
+	
+	"voyager.advancement.utopia.root": "Utopian System",
+	"voyager.advancement.utopia.root.desc": "Teeming with weird life",
+	
 	"voyager.death.shock.entity": "%s was electrocuted by %s",
 	"voyager.death.eaten.entity": "%s was consumed by %s",
 	"voyager.death.force.entity": "%s was crushed by %s",
