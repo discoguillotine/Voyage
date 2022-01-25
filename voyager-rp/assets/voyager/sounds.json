@@ -1,6 +1,6 @@
 {
   "entity.player.hurt_zap": {
-	"subtitle": "voyager.subtitle.player.player_hurt_zap",
+	"subtitle": "voyager.subtitle.player.hurt_zap",
 	"sounds": [
 	  "voyager:entity/player/hurt_zap_1",
 	  "voyager:entity/player/hurt_zap_2",
@@ -8,7 +8,7 @@
 	]
   },
   "entity.player.hurt_gravity": {
-	"subtitle": "voyager.subtitle.player.player_hurt_gravity",
+	"subtitle": "voyager.subtitle.player.hurt_gravity",
 	"sounds": [
 	  "voyager:entity/player/hurt_gravity_1",
 	  "voyager:entity/player/hurt_gravity_2",
@@ -24,7 +24,7 @@
 	]
   },
   "entity.turret.hurt": {
-	"subtitle": "voyager.subtitle.entity.turret_hurt",
+	"subtitle": "voyager.subtitle.entity.turret.hurt",
 	"sounds": [
 	  "voyager:entity/turret/hit_1",
 	  "voyager:entity/turret/hit_2",
@@ -32,28 +32,28 @@
 	]
   },
   "entity.turret.death": {
-	"subtitle": "voyager.subtitle.entity.turret_death",
+	"subtitle": "voyager.subtitle.entity.turret.death",
 	"sounds": [
 	  "voyager:entity/turret/death_1",
 	  "voyager:entity/turret/death_2"
 	]
   },
   "entity.turret.shoot": {
-	"subtitle": "voyager.subtitle.entity.turret_shoot",
+	"subtitle": "voyager.subtitle.entity.turret.shoot",
 	"sounds": [
 	  "voyager:entity/turret/shoot_1",
 	  "voyager:entity/turret/shoot_2"
 	]
   },
   "item.shock_cannon.shoot": {
-	"subtitle": "voyager.subtitle.item.shock_cannon_shoot",
+	"subtitle": "voyager.subtitle.item.shock_cannon.shoot",
 	"sounds": [
 	  "voyager:item/shock_cannon/shoot_1",
 	  "voyager:item/shock_cannon/shoot_2"
 	]
   },
   "entity.tuzi.hurt": {
-	"subtitle": "voyager.subtitle.entity.tuzi_hurt",
+	"subtitle": "voyager.subtitle.entity.tuzi.hurt",
 	"sounds": [
 	  "minecraft:mob/slime/small1",
 	  "minecraft:mob/slime/small2",
@@ -63,7 +63,7 @@
 	]
   },
   "entity.tuzi.death": {
-	"subtitle": "voyager.subtitle.entity.tuzi_death",
+	"subtitle": "voyager.subtitle.entity.tuzi.death",
 	"sounds": [
 	  "minecraft:mob/slime/small1",
 	  "minecraft:mob/slime/small2",
@@ -73,7 +73,7 @@
 	]
   },
   "entity.tuzi.eat": {
-	"subtitle": "voyager.subtitle.entity.tuzi_eat",
+	"subtitle": "voyager.subtitle.entity.tuzi.eat",
 	"sounds": [
 	  "voyager:entity/tuzi/eat_1",
 	  "voyager:entity/tuzi/eat_2",
@@ -81,26 +81,26 @@
 	]
   },
   "entity.tuzi.grow": {
-	"subtitle": "voyager.subtitle.entity.tuzi_grow",
+	"subtitle": "voyager.subtitle.entity.tuzi.grow",
 	"sounds": [
 	  "voyager:entity/tuzi/grow"
 	]
   },
   "entity.tuzi.mitosis": {
-	"subtitle": "voyager.subtitle.entity.tuzi_mitosis",
+	"subtitle": "voyager.subtitle.entity.tuzi.mitosis",
 	"sounds": [
 	  "voyager:entity/tuzi/mitosis"
 	]
   },
   "entity.droid.detect": {
-	"subtitle": "voyager.subtitle.entity.droid_detect",
+	"subtitle": "voyager.subtitle.entity.droid.detect",
 	"sounds": [
 	  "voyager:entity/droid/detect_1",
 	  "voyager:entity/droid/detect_2"
 	]
   },
   "entity.droid.hurt": {
-	"subtitle": "voyager.subtitle.entity.droid_hurt",
+	"subtitle": "voyager.subtitle.entity.droid.hurt",
 	"sounds": [
 	  "voyager:entity/machine/hurt_1",
 	  "voyager:entity/machine/hurt_2",
@@ -108,14 +108,14 @@
 	]
   },
   "entity.droid.death": {
-	"subtitle": "voyager.subtitle.entity.droid_death",
+	"subtitle": "voyager.subtitle.entity.droid.death",
 	"sounds": [
 	  "voyager:entity/machine/death_1",
 	  "voyager:entity/machine/death_2"
 	]
   },
   "entity.tardigrade.idle": {
-	"subtitle": "voyager.subtitle.entity.tardigrade_idle",
+	"subtitle": "voyager.subtitle.entity.tardigrade.idle",
 	"sounds": [
 	  "voyager:entity/tardigrade/idle_1",
 	  "voyager:entity/tardigrade/idle_2",
@@ -123,7 +123,7 @@
 	]
   },
   "entity.tardigrade.hurt": {
-	"subtitle": "voyager.subtitle.entity.tardigrade_hurt",
+	"subtitle": "voyager.subtitle.entity.tardigrade.hurt",
 	"sounds": [
 	  "voyager:entity/tardigrade/hurt_1",
 	  "voyager:entity/tardigrade/hurt_2",
@@ -132,14 +132,14 @@
 	]
   },
   "entity.tardigrade.death": {
-	"subtitle": "voyager.subtitle.entity.tardigrade_death",
+	"subtitle": "voyager.subtitle.entity.tardigrade.death",
 	"sounds": [
 	  "voyager:entity/tardigrade/death_1",
 	  "voyager:entity/tardigrade/death_2"
 	]
   },
   "entity.tardigrade.charge": {
-	"subtitle": "voyager.subtitle.entity.tardigrade_charge",
+	"subtitle": "voyager.subtitle.entity.tardigrade.charge",
 	"sounds": [
 	  "voyager:entity/tardigrade/charge_1",
 	  "voyager:entity/tardigrade/charge_2",
@@ -147,13 +147,13 @@
 	]
   },
   "environment.gravity.enter": {
-	"subtitle": "voyager.subtitle.environment.gravity_enter",
+	"subtitle": "voyager.subtitle.environment.gravity.enter",
 	"sounds": [
 	  "voyager:environment/gravity/enter"
 	]
   },
   "environment.gravity.exit": {
-	"subtitle": "voyager.subtitle.environment.gravity_exit",
+	"subtitle": "voyager.subtitle.environment.gravity.exit",
 	"sounds": [
 	  "voyager:environment/gravity/exit"
 	]
